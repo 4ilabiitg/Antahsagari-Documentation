@@ -1,0 +1,9 @@
+(cl:defpackage dave_gazebo_ros_plugins-msg
+  (:use )
+  (:export
+   "<STRATIFIEDCURRENTDATABASE>"
+   "STRATIFIEDCURRENTDATABASE"
+   "<STRATIFIEDCURRENTVELOCITY>"
+   "STRATIFIEDCURRENTVELOCITY"
+  ))
+

@@ -1,0 +1,8 @@
+prefix=/home/roshan/uuv_ws/install
+
+Name: ds_sim
+Description: Description of ds_sim
+Version: 0.1.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lds_sim_gazebo_msgs -ldsros_jointstate_publisher -ldsros_ros_depth -ldsros_ros_ins -ldsros_ros_dvl -ldsros_ros_gps
+Requires: xacro roscpp gazebo_ros sensor_msgs ds_core_msgs ds_sensor_msgs ds_actuator_msgs ds_multibeam_msgs dave_gazebo_world_plugins

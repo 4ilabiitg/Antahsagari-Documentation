@@ -1,0 +1,2 @@
+set(ds_actuator_msgs_MESSAGE_FILES "/home/roshan/uuv_ws/src/ds_msgs/ds_actuator_msgs/msg/ServoCmd.msg;/home/roshan/uuv_ws/src/ds_msgs/ds_actuator_msgs/msg/ServoState.msg;/home/roshan/uuv_ws/src/ds_msgs/ds_actuator_msgs/msg/Tecnadyne561.msg;/home/roshan/uuv_ws/src/ds_msgs/ds_actuator_msgs/msg/ThrusterCmd.msg;/home/roshan/uuv_ws/src/ds_msgs/ds_actuator_msgs/msg/ThrusterState.msg;/home/roshan/uuv_ws/src/ds_msgs/ds_actuator_msgs/msg/DropweightCmd.msg")
+set(ds_actuator_msgs_SERVICE_FILES "/home/roshan/uuv_ws/src/ds_msgs/ds_actuator_msgs/srv/XrCmd.srv")

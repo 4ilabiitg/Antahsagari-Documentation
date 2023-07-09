@@ -1,0 +1,2 @@
+set(dave_gazebo_ros_plugins_MESSAGE_FILES "msg/StratifiedCurrentDatabase.msg;msg/StratifiedCurrentVelocity.msg")
+set(dave_gazebo_ros_plugins_SERVICE_FILES "srv/SetCurrentModel.srv;srv/GetCurrentModel.srv;srv/SetCurrentVelocity.srv;srv/SetCurrentDirection.srv;srv/SetStratifiedCurrentVelocity.srv;srv/SetStratifiedCurrentDirection.srv;srv/SetOriginSphericalCoord.srv;srv/GetOriginSphericalCoord.srv;srv/TransformToSphericalCoord.srv;srv/TransformFromSphericalCoord.srv")

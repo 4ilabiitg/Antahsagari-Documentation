@@ -1,0 +1,11 @@
+# generated from genmsg/cmake/pkg-genmsg.context.in
+
+messages_str = "/home/roshan/uuv_ws/src/ds_msgs/ds_hotel_msgs/msg/Charge.msg;/home/roshan/uuv_ws/src/ds_msgs/ds_hotel_msgs/msg/PowerSupply.msg;/home/roshan/uuv_ws/src/ds_msgs/ds_hotel_msgs/msg/HTP.msg;/home/roshan/uuv_ws/src/ds_msgs/ds_hotel_msgs/msg/HTPGL.msg;/home/roshan/uuv_ws/src/ds_msgs/ds_hotel_msgs/msg/BatMan.msg;/home/roshan/uuv_ws/src/ds_msgs/ds_hotel_msgs/msg/Battery.msg;/home/roshan/uuv_ws/src/ds_msgs/ds_hotel_msgs/msg/ClioBattery.msg;/home/roshan/uuv_ws/src/ds_msgs/ds_hotel_msgs/msg/ClioBatteryPack.msg;/home/roshan/uuv_ws/src/ds_msgs/ds_hotel_msgs/msg/PWRdevice.msg;/home/roshan/uuv_ws/src/ds_msgs/ds_hotel_msgs/msg/PWR.msg;/home/roshan/uuv_ws/src/ds_msgs/ds_hotel_msgs/msg/PwrSwitch.msg;/home/roshan/uuv_ws/src/ds_msgs/ds_hotel_msgs/msg/PwrSwitchDevices.msg;/home/roshan/uuv_ws/src/ds_msgs/ds_hotel_msgs/msg/PwrSwitchDeviceStatus.msg;/home/roshan/uuv_ws/src/ds_msgs/ds_hotel_msgs/msg/TriggerChannelConfig.msg;/home/roshan/uuv_ws/src/ds_msgs/ds_hotel_msgs/msg/PwrSwitchDeviceCmd.msg;/home/roshan/uuv_ws/src/ds_msgs/ds_hotel_msgs/msg/XR.msg;/home/roshan/uuv_ws/src/ds_msgs/ds_hotel_msgs/msg/XrSimState.msg;/home/roshan/uuv_ws/src/ds_msgs/ds_hotel_msgs/msg/A2D2.msg"
+services_str = "/home/roshan/uuv_ws/src/ds_msgs/ds_hotel_msgs/srv/AbortCmd.srv;/home/roshan/uuv_ws/src/ds_msgs/ds_hotel_msgs/srv/BatteryCmd.srv;/home/roshan/uuv_ws/src/ds_msgs/ds_hotel_msgs/srv/PowerCmd.srv;/home/roshan/uuv_ws/src/ds_msgs/ds_hotel_msgs/srv/PowerSupplyCommand.srv;/home/roshan/uuv_ws/src/ds_msgs/ds_hotel_msgs/srv/PwrSwitchCmd.srv;/home/roshan/uuv_ws/src/ds_msgs/ds_hotel_msgs/srv/ChargeCmd.srv;/home/roshan/uuv_ws/src/ds_msgs/ds_hotel_msgs/srv/ClioChgCmd.srv;/home/roshan/uuv_ws/src/ds_msgs/ds_hotel_msgs/srv/TrigPrmCtrlCmd.srv"
+pkg_name = "ds_hotel_msgs"
+dependencies_str = "std_msgs;ds_core_msgs"
+langs = "gencpp;geneus;genlisp;gennodejs;genpy"
+dep_include_paths_str = "ds_hotel_msgs;/home/roshan/uuv_ws/src/ds_msgs/ds_hotel_msgs/msg;std_msgs;/opt/ros/melodic/share/std_msgs/cmake/../msg;ds_core_msgs;/home/roshan/uuv_ws/src/ds_msgs/ds_core_msgs/msg"
+PYTHON_EXECUTABLE = "/usr/bin/python2"
+package_has_static_sources = '' == 'TRUE'
+genmsg_check_deps_script = "/opt/ros/melodic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py"

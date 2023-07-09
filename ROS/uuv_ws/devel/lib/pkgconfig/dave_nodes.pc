@@ -1,0 +1,8 @@
+prefix=/home/roshan/uuv_ws/devel
+
+Name: dave_nodes
+Description: Description of dave_nodes
+Version: 3.1.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -std=c++11  -shared -Wl,-soname,libtransceiverPlugin.so -o /home/roshan/uuv_ws/devel/lib/libtransceiverPlugin.so CMakeFiles/transceiverPlugin.dir/src/usbl_transceiver_plugin.cc.o  -L/opt/ros/melodic/lib  -L/usr/lib/x86_64-linux-gnu/gazebo-9/plugins  -L/home/roshan/uuv_ws/build/dave/gazebo/dave_gazebo_model_plugins/msgs 

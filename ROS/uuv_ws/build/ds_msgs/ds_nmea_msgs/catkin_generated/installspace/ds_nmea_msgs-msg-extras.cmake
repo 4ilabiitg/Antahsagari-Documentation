@@ -1,0 +1,2 @@
+set(ds_nmea_msgs_MESSAGE_FILES "msg/Hdt.msg;msg/Gga.msg;msg/Gll.msg;msg/PixseAtitud.msg;msg/PixsePositi.msg;msg/PixseSpeed.msg;msg/PixseUtmwgs.msg;msg/PixseHeave.msg;msg/PixseStdhrp.msg;msg/PixseStdspd.msg;msg/PixseStdpos.msg;msg/PixseAlgsts.msg;msg/PixseStatus.msg;msg/PixseHtsts.msg;msg/PixseHspos.msg;msg/Vtg.msg;msg/Zda.msg;msg/Tro.msg;msg/Inf.msg;msg/PixseAccest.msg;msg/PixseFogest.msg;msg/PixseConfig1Int.msg;msg/PixseConfig2Int.msg")
+set(ds_nmea_msgs_SERVICE_FILES "")

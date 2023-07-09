@@ -1,0 +1,8 @@
+prefix=/home/roshan/uuv_ws/devel
+
+Name: dave_gazebo_visual_plugins
+Description: Description of dave_gazebo_visual_plugins
+Version: 3.1.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

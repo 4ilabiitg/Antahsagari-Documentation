@@ -1,0 +1,16 @@
+\subsubsection usage Usage
+\verbatim
+<node name="ds_phinsins" pkg="ds_sensor_msgs" type="ds_phinsins">
+  <param name="zuptMode" type="int" value="0" />
+  <param name="altMode" type="int" value="0" />
+  <param name="gps1Rejection" type="int" value="1" />
+  <param name="gps2Rejection" type="int" value="1" />
+  <param name="dvl1Rejection" type="int" value="1" />
+  <param name="dvl2Rejection" type="int" value="1" />
+  <param name="dvlWt1Rejection" type="int" value="1" />
+  <param name="dvlWt2Rejection" type="int" value="1" />
+  <param name="depthRejection" type="int" value="1" />
+  <param name="usblRejection" type="int" value="1" />
+</node>
+\endverbatim
+

@@ -1,0 +1,7 @@
+set(uuv_manipulators_control_SETUP_PY_SETUP_MODULE "distutils.core")
+set(uuv_manipulators_control_SETUP_PY_VERSION "0.6.1")
+set(uuv_manipulators_control_SETUP_PY_SCRIPTS "")
+set(uuv_manipulators_control_SETUP_PY_PACKAGES "uuv_manipulators_control")
+set(uuv_manipulators_control_SETUP_PY_PACKAGE_DIRS "src/uuv_manipulators_control")
+set(uuv_manipulators_control_SETUP_PY_MODULES "")
+set(uuv_manipulators_control_SETUP_PY_MODULE_DIRS "")

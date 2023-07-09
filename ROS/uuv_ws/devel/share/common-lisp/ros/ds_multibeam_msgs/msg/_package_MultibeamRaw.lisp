@@ -1,0 +1,24 @@
+(cl:in-package ds_multibeam_msgs-msg)
+(cl:export '(HEADER-VAL
+          HEADER
+          DS_HEADER-VAL
+          DS_HEADER
+          SOUNDSPEED-VAL
+          SOUNDSPEED
+          BEAMFLAG-VAL
+          BEAMFLAG
+          TWOWAYTRAVELTIME-VAL
+          TWOWAYTRAVELTIME
+          TXDELAY-VAL
+          TXDELAY
+          INTENSITY-VAL
+          INTENSITY
+          ANGLEALONGTRACK-VAL
+          ANGLEALONGTRACK
+          ANGLEACROSSTRACK-VAL
+          ANGLEACROSSTRACK
+          BEAMWIDTHALONGTRACK-VAL
+          BEAMWIDTHALONGTRACK
+          BEAMWIDTHACROSSTRACK-VAL
+          BEAMWIDTHACROSSTRACK
+))

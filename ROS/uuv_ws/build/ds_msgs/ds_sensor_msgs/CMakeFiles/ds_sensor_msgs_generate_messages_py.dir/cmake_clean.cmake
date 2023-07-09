@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/ds_sensor_msgs_generate_messages_py"
+  "/home/roshan/uuv_ws/devel/lib/python2.7/dist-packages/ds_sensor_msgs/msg/_UbloxSurveyIn.py"
+  "/home/roshan/uuv_ws/devel/lib/python2.7/dist-packages/ds_sensor_msgs/msg/_Velocity3D.py"
+  "/home/roshan/uuv_ws/devel/lib/python2.7/dist-packages/ds_sensor_msgs/msg/_PhinsStatus.py"
+  "/home/roshan/uuv_ws/devel/lib/python2.7/dist-packages/ds_sensor_msgs/msg/_DepthPressure.py"
+  "/home/roshan/uuv_ws/devel/lib/python2.7/dist-packages/ds_sensor_msgs/msg/_Range3D.py"
+  "/home/roshan/uuv_ws/devel/lib/python2.7/dist-packages/ds_sensor_msgs/msg/_Frequency.py"
+  "/home/roshan/uuv_ws/devel/lib/python2.7/dist-packages/ds_sensor_msgs/msg/_Compass.py"
+  "/home/roshan/uuv_ws/devel/lib/python2.7/dist-packages/ds_sensor_msgs/msg/_RdiPD0.py"
+  "/home/roshan/uuv_ws/devel/lib/python2.7/dist-packages/ds_sensor_msgs/msg/_MemsImu.py"
+  "/home/roshan/uuv_ws/devel/lib/python2.7/dist-packages/ds_sensor_msgs/msg/_SoundSpeed.py"
+  "/home/roshan/uuv_ws/devel/lib/python2.7/dist-packages/ds_sensor_msgs/msg/_VectorMagneticField.py"
+  "/home/roshan/uuv_ws/devel/lib/python2.7/dist-packages/ds_sensor_msgs/msg/_UbloxSatellites.py"
+  "/home/roshan/uuv_ws/devel/lib/python2.7/dist-packages/ds_sensor_msgs/msg/_UbloxNav.py"
+  "/home/roshan/uuv_ws/devel/lib/python2.7/dist-packages/ds_sensor_msgs/msg/_Ctd.py"
+  "/home/roshan/uuv_ws/devel/lib/python2.7/dist-packages/ds_sensor_msgs/msg/_UbloxSignal.py"
+  "/home/roshan/uuv_ws/devel/lib/python2.7/dist-packages/ds_sensor_msgs/msg/_NortekVectorSystem.py"
+  "/home/roshan/uuv_ws/devel/lib/python2.7/dist-packages/ds_sensor_msgs/msg/_OxygenConcentration.py"
+  "/home/roshan/uuv_ws/devel/lib/python2.7/dist-packages/ds_sensor_msgs/msg/_UbloxSatellite.py"
+  "/home/roshan/uuv_ws/devel/lib/python2.7/dist-packages/ds_sensor_msgs/msg/_Ranges3D.py"
+  "/home/roshan/uuv_ws/devel/lib/python2.7/dist-packages/ds_sensor_msgs/msg/_AcousticCurrentProfile.py"
+  "/home/roshan/uuv_ws/devel/lib/python2.7/dist-packages/ds_sensor_msgs/msg/_WaterCurrentProfile.py"
+  "/home/roshan/uuv_ws/devel/lib/python2.7/dist-packages/ds_sensor_msgs/msg/_ForwardLookingStatus.py"
+  "/home/roshan/uuv_ws/devel/lib/python2.7/dist-packages/ds_sensor_msgs/msg/_UbloxSignals.py"
+  "/home/roshan/uuv_ws/devel/lib/python2.7/dist-packages/ds_sensor_msgs/msg/_NortekDF21.py"
+  "/home/roshan/uuv_ws/devel/lib/python2.7/dist-packages/ds_sensor_msgs/msg/_RdiPD5.py"
+  "/home/roshan/uuv_ws/devel/lib/python2.7/dist-packages/ds_sensor_msgs/msg/_Dvl.py"
+  "/home/roshan/uuv_ws/devel/lib/python2.7/dist-packages/ds_sensor_msgs/msg/_Ins.py"
+  "/home/roshan/uuv_ws/devel/lib/python2.7/dist-packages/ds_sensor_msgs/msg/_PhinsStandard.py"
+  "/home/roshan/uuv_ws/devel/lib/python2.7/dist-packages/ds_sensor_msgs/msg/_Adcp.py"
+  "/home/roshan/uuv_ws/devel/lib/python2.7/dist-packages/ds_sensor_msgs/msg/_PhinsStdbin3.py"
+  "/home/roshan/uuv_ws/devel/lib/python2.7/dist-packages/ds_sensor_msgs/msg/_Gyro.py"
+  "/home/roshan/uuv_ws/devel/lib/python2.7/dist-packages/ds_sensor_msgs/msg/__init__.py"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/ds_sensor_msgs_generate_messages_py.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

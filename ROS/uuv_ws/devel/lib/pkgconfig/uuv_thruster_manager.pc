@@ -1,0 +1,8 @@
+prefix=/home/roshan/uuv_ws/devel
+
+Name: uuv_thruster_manager
+Description: Description of uuv_thruster_manager
+Version: 0.6.13
+Cflags: -I/home/roshan/uuv_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs message_runtime

@@ -1,0 +1,8 @@
+prefix=/home/roshan/uuv_ws/install
+
+Name: eca_a9_gazebo
+Description: Description of eca_a9_gazebo
+Version: 0.1.6
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

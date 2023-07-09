@@ -1,0 +1,8 @@
+prefix=/home/roshan/uuv_ws/install
+
+Name: rexrov2_gazebo
+Description: Description of rexrov2_gazebo
+Version: 0.1.3
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

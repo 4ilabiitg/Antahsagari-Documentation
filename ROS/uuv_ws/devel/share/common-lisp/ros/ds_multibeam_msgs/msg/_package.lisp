@@ -1,0 +1,17 @@
+(cl:defpackage ds_multibeam_msgs-msg
+  (:use )
+  (:export
+   "<MULTIBEAMFILTERSTATS>"
+   "MULTIBEAMFILTERSTATS"
+   "<MULTIBEAMGRID>"
+   "MULTIBEAMGRID"
+   "<MULTIBEAMGRIDSTATS>"
+   "MULTIBEAMGRIDSTATS"
+   "<MULTIBEAMRAW>"
+   "MULTIBEAMRAW"
+   "<NORBITMB>"
+   "NORBITMB"
+   "<NORBITWC>"
+   "NORBITWC"
+  ))
+

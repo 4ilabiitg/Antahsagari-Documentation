@@ -1,0 +1,2 @@
+set(ds_hotel_msgs_MESSAGE_FILES "msg/Charge.msg;msg/PowerSupply.msg;msg/HTP.msg;msg/HTPGL.msg;msg/BatMan.msg;msg/Battery.msg;msg/ClioBattery.msg;msg/ClioBatteryPack.msg;msg/PWRdevice.msg;msg/PWR.msg;msg/PwrSwitch.msg;msg/PwrSwitchDevices.msg;msg/PwrSwitchDeviceStatus.msg;msg/TriggerChannelConfig.msg;msg/PwrSwitchDeviceCmd.msg;msg/XR.msg;msg/XrSimState.msg;msg/A2D2.msg")
+set(ds_hotel_msgs_SERVICE_FILES "srv/AbortCmd.srv;srv/BatteryCmd.srv;srv/PowerCmd.srv;srv/PowerSupplyCommand.srv;srv/PwrSwitchCmd.srv;srv/ChargeCmd.srv;srv/ClioChgCmd.srv;srv/TrigPrmCtrlCmd.srv")

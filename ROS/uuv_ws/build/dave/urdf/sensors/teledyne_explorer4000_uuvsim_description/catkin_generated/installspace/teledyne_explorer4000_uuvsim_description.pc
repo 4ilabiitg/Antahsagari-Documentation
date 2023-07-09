@@ -1,0 +1,8 @@
+prefix=/home/roshan/uuv_ws/install
+
+Name: teledyne_explorer4000_uuvsim_description
+Description: Description of teledyne_explorer4000_uuvsim_description
+Version: 3.1.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

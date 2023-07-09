@@ -1,0 +1,8 @@
+prefix=/home/roshan/uuv_ws/devel
+
+Name: ds_sensor_parsers
+Description: Description of ds_sensor_parsers
+Version: 0.1.0
+Cflags: -I/home/roshan/uuv_ws/src/ds_msgs/ds_sensor_parsers/include
+Libs: -L${prefix}/lib -lds_sensor_parsers
+Requires: ds_core_msgs ds_sensor_msgs

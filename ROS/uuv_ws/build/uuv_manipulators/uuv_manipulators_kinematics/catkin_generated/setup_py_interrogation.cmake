@@ -1,0 +1,7 @@
+set(uuv_manipulators_kinematics_SETUP_PY_SETUP_MODULE "distutils.core")
+set(uuv_manipulators_kinematics_SETUP_PY_VERSION "0.6.1")
+set(uuv_manipulators_kinematics_SETUP_PY_SCRIPTS "")
+set(uuv_manipulators_kinematics_SETUP_PY_PACKAGES "uuv_kinematics_utils;uuv_manipulator_interfaces;uuv_manipulator_nodes")
+set(uuv_manipulators_kinematics_SETUP_PY_PACKAGE_DIRS "src/uuv_kinematics_utils;src/uuv_manipulator_interfaces;src/uuv_manipulator_nodes")
+set(uuv_manipulators_kinematics_SETUP_PY_MODULES "")
+set(uuv_manipulators_kinematics_SETUP_PY_MODULE_DIRS "")

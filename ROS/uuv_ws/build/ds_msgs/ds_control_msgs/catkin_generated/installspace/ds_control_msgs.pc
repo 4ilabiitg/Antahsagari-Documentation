@@ -1,0 +1,8 @@
+prefix=/home/roshan/uuv_ws/install
+
+Name: ds_control_msgs
+Description: Description of ds_control_msgs
+Version: 0.1.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_generation std_msgs ds_core_msgs geometry_msgs control_msgs ds_nav_msgs geometry_msgs

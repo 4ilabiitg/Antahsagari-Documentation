@@ -1,0 +1,8 @@
+prefix=/home/roshan/uuv_ws/install
+
+Name: ds_nmea_parsers
+Description: Description of ds_nmea_parsers
+Version: 0.1.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lds_nmea_parsers
+Requires: ds_nmea_msgs

@@ -1,0 +1,2 @@
+set(ds_core_msgs_MESSAGE_FILES "msg/Abort.msg;msg/Diag.msg;msg/DsHeader.msg;msg/KeyBool.msg;msg/KeyInt.msg;msg/KeyFloat.msg;msg/KeyDouble.msg;msg/KeyString.msg;msg/ParamDescription.msg;msg/ParamUpdate.msg;msg/Status.msg;msg/RawData.msg;msg/ByteSequence.msg;msg/IoCommand.msg;msg/IoCommandList.msg;msg/IoSMQueues.msg;msg/CriticalProcess.msg;msg/Countdown.msg;msg/CountdownMonitor.msg;msg/StringStamped.msg;msg/ClockOffset.msg")
+set(ds_core_msgs_SERVICE_FILES "srv/VoidCmd.srv;srv/IoSMcommand.srv;srv/StringCmd.srv")

@@ -1,0 +1,8 @@
+prefix=/home/roshan/uuv_ws/install
+
+Name: oberon7_gazebo
+Description: Description of oberon7_gazebo
+Version: 1.2.7
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

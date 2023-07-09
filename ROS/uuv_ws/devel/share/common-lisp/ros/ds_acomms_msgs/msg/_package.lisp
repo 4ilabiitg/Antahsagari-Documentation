@@ -1,0 +1,21 @@
+(cl:defpackage ds_acomms_msgs-msg
+  (:use )
+  (:export
+   "<ACKSEXPECTED>"
+   "ACKSEXPECTED"
+   "<ACOUSTICMODEMDATA>"
+   "ACOUSTICMODEMDATA"
+   "<MICROMODEMDATA>"
+   "MICROMODEMDATA"
+   "<MODEMDATA>"
+   "MODEMDATA"
+   "<POINT_F32>"
+   "POINT_F32"
+   "<QUEUEDEFINITION>"
+   "QUEUEDEFINITION"
+   "<TDMASLOTS>"
+   "TDMASLOTS"
+   "<VECTOR3_F32>"
+   "VECTOR3_F32"
+  ))
+

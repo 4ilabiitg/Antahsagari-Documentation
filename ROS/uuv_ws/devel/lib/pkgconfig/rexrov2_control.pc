@@ -1,0 +1,8 @@
+prefix=/home/roshan/uuv_ws/devel
+
+Name: rexrov2_control
+Description: Description of rexrov2_control
+Version: 0.1.3
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

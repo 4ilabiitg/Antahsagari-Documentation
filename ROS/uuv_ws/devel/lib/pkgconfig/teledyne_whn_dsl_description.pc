@@ -1,0 +1,8 @@
+prefix=/home/roshan/uuv_ws/devel
+
+Name: teledyne_whn_dsl_description
+Description: Description of teledyne_whn_dsl_description
+Version: 3.1.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

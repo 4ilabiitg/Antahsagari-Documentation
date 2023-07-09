@@ -1,0 +1,7 @@
+set(uuv_thruster_manager_SETUP_PY_SETUP_MODULE "distutils.core")
+set(uuv_thruster_manager_SETUP_PY_VERSION "0.6.13")
+set(uuv_thruster_manager_SETUP_PY_SCRIPTS "")
+set(uuv_thruster_manager_SETUP_PY_PACKAGES "uuv_thrusters")
+set(uuv_thruster_manager_SETUP_PY_PACKAGE_DIRS "src/uuv_thrusters")
+set(uuv_thruster_manager_SETUP_PY_MODULES "")
+set(uuv_thruster_manager_SETUP_PY_MODULE_DIRS "")

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -std=c++11  -shared -Wl,-soname,libuuv_dynamics.so -o /home/roshan/antah_ws/devel/lib/libuuv_dynamics.so CMakeFiles/uuv_dynamics.dir/src/Dynamics.cc.o  -L/usr/lib/x86_64-linux-gnu/gazebo-9/plugins 

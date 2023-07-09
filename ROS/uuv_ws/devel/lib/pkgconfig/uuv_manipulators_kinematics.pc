@@ -1,0 +1,8 @@
+prefix=/home/roshan/uuv_ws/devel
+
+Name: uuv_manipulators_kinematics
+Description: Description of uuv_manipulators_kinematics
+Version: 0.6.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

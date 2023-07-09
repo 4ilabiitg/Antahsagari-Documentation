@@ -1,0 +1,8 @@
+prefix=/home/roshan/uuv_ws/install
+
+Name: dave_gazebo_sensors
+Description: Description of dave_gazebo_sensors
+Version: 3.1.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp gazebo_ros

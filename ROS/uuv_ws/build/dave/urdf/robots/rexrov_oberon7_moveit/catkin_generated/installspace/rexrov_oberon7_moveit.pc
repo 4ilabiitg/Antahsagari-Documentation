@@ -1,0 +1,8 @@
+prefix=/home/roshan/uuv_ws/install
+
+Name: rexrov_oberon7_moveit
+Description: Description of rexrov_oberon7_moveit
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/roshan/uuv_ws/install
+
+Name: fls_gazebo
+Description: Description of fls_gazebo
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

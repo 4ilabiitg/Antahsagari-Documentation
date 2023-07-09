@@ -1,0 +1,8 @@
+prefix=/home/roshan/uuv_ws/install
+
+Name: oberon4_control
+Description: Description of oberon4_control
+Version: 0.6.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

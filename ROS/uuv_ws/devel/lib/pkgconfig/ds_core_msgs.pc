@@ -1,0 +1,8 @@
+prefix=/home/roshan/uuv_ws/devel
+
+Name: ds_core_msgs
+Description: Description of ds_core_msgs
+Version: 0.1.0
+Cflags: -I/home/roshan/uuv_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_generation std_msgs

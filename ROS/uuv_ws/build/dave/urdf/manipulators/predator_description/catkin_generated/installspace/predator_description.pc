@@ -1,0 +1,8 @@
+prefix=/home/roshan/uuv_ws/install
+
+Name: predator_description
+Description: Description of predator_description
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

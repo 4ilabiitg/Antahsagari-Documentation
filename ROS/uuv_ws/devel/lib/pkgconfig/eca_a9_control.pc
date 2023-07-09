@@ -1,0 +1,8 @@
+prefix=/home/roshan/uuv_ws/devel
+
+Name: eca_a9_control
+Description: Description of eca_a9_control
+Version: 0.1.6
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

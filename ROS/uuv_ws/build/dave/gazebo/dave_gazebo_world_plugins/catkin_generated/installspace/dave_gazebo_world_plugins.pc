@@ -1,0 +1,8 @@
+prefix=/home/roshan/uuv_ws/install
+
+Name: dave_gazebo_world_plugins
+Description: Description of dave_gazebo_world_plugins
+Version: 3.1.1
+Cflags: -I${prefix}/include -I/usr/include/gazebo-9/gazebo/msgs
+Libs: -L${prefix}/lib -ldave_gazebo_world_plugins_msgs -ldave_ocean_current_world_plugin
+Requires: gazebo_dev gazebo_msgs gazebo_ros roscpp

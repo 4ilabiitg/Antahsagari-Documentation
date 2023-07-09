@@ -1,0 +1,23 @@
+
+(cl:in-package :asdf)
+
+(defsystem "ds_acomms_msgs-msg"
+  :depends-on (:roslisp-msg-protocol :roslisp-utils )
+  :components ((:file "_package")
+    (:file "AcksExpected" :depends-on ("_package_AcksExpected"))
+    (:file "_package_AcksExpected" :depends-on ("_package"))
+    (:file "AcousticModemData" :depends-on ("_package_AcousticModemData"))
+    (:file "_package_AcousticModemData" :depends-on ("_package"))
+    (:file "MicromodemData" :depends-on ("_package_MicromodemData"))
+    (:file "_package_MicromodemData" :depends-on ("_package"))
+    (:file "ModemData" :depends-on ("_package_ModemData"))
+    (:file "_package_ModemData" :depends-on ("_package"))
+    (:file "Point_F32" :depends-on ("_package_Point_F32"))
+    (:file "_package_Point_F32" :depends-on ("_package"))
+    (:file "QueueDefinition" :depends-on ("_package_QueueDefinition"))
+    (:file "_package_QueueDefinition" :depends-on ("_package"))
+    (:file "TDMASlots" :depends-on ("_package_TDMASlots"))
+    (:file "_package_TDMASlots" :depends-on ("_package"))
+    (:file "Vector3_F32" :depends-on ("_package_Vector3_F32"))
+    (:file "_package_Vector3_F32" :depends-on ("_package"))
+  ))

@@ -1,0 +1,15 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~zuptMode" : \b [int] ZUPT mode min: 0, default: 0, max: 5
+- \b "~altMode" : \b [int] Altitude mode min: 0, default: 0, max: 3
+- \b "~gps1Rejection" : \b [int] GPS 1 rejection filter mode min: 0, default: 1, max: 3
+- \b "~gps2Rejection" : \b [int] GPS 2 rejection filter mode min: 0, default: 1, max: 3
+- \b "~dvl1Rejection" : \b [int] DVL 1 bottom-track rejection filter mode min: 0, default: 1, max: 3
+- \b "~dvl2Rejection" : \b [int] DVL 2 bottom-track rejection filter mode min: 0, default: 1, max: 3
+- \b "~dvlWt1Rejection" : \b [int] DVL 1 water-track rejection filter mode min: 0, default: 1, max: 3
+- \b "~dvlWt2Rejection" : \b [int] DVL 2 water-track rejection filter mode min: 0, default: 1, max: 3
+- \b "~depthRejection" : \b [int] Depth sensor rejeciton filter mode min: 0, default: 1, max: 3
+- \b "~usblRejection" : \b [int] USBL rejection filter mode min: 0, default: 1, max: 3
+

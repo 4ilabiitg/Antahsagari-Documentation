@@ -1,0 +1,7 @@
+set(uuv_assistants_SETUP_PY_SETUP_MODULE "distutils.core")
+set(uuv_assistants_SETUP_PY_VERSION "0.6.13")
+set(uuv_assistants_SETUP_PY_SCRIPTS "")
+set(uuv_assistants_SETUP_PY_PACKAGES "tf_quaternion")
+set(uuv_assistants_SETUP_PY_PACKAGE_DIRS "src/tf_quaternion")
+set(uuv_assistants_SETUP_PY_MODULES "")
+set(uuv_assistants_SETUP_PY_MODULE_DIRS "")

@@ -1,0 +1,8 @@
+prefix=/home/roshan/uuv_ws/devel
+
+Name: uuv_manipulators_msgs
+Description: Description of uuv_manipulators_msgs
+Version: 0.6.1
+Cflags: -I/home/roshan/uuv_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime geometry_msgs sensor_msgs std_msgs

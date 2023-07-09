@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>ds_sim</name>
+  <version>0.1.0</version>
+  <description>General plugins, urdf, etc for simulating vehicles with the DSL package.  Intended to focus on common sensors, actuators, etc.</description>
+
+  <maintainer email="nobody@nowhere.com">NONE</maintainer>
+
+  <!--   BSD, MIT, Boost Software License, GPLv2, GPLv3, LGPLv2.1, LGPLv3 -->
+  <license>BSD</license>
+
+  <url type="repository">https://bitbucket.org/whoidsl/ds_sim</url>
+
+  <author email="ivaughn@whoi.edu">Ian Vaughn</author>
+  <author email="ssuman@whoi.edu">Stefano Suman</author>
+  <author email="zberkowitz@whoi.edu">Zac Berkowitz</author>
+  <author email="jvaccaro@whoi.edu">J Vaccaro</author>
+  <author email="jhowland@whoi.edu">Jon Howland</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>protobuf-dev</buildtool_depend>
+  <build_depend>gazebo_ros</build_depend>
+  <build_depend>xacro</build_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>sensor_msgs</build_depend>
+  <build_depend>geometry_msgs</build_depend>
+  <build_depend>ds_multibeam_msgs</build_depend>
+  <build_depend>eigen</build_depend>
+  <build_depend>tf</build_depend>
+  <build_depend>protobuf-dev</build_depend>
+  <build_depend>protobuf</build_depend>
+  <build_export_depend>gazebo_ros</build_export_depend>
+  <build_export_depend>xacro</build_export_depend>
+  <build_export_depend>sensor_msgs</build_export_depend>
+  <build_export_depend>geometry_msgs</build_export_depend>
+  <build_export_depend>ds_multibeam_msgs</build_export_depend>
+  <build_export_depend>roscpp</build_export_depend>
+  <build_export_depend>eigen</build_export_depend>
+  <build_export_depend>tf</build_export_depend>
+  <build_export_depend>protobuf</build_export_depend>
+  <exec_depend>gazebo_ros</exec_depend>
+  <exec_depend>xacro</exec_depend>
+  <exec_depend>sensor_msgs</exec_depend>
+  <exec_depend>geometry_msgs</exec_depend>
+  <exec_depend>ds_multibeam_msgs</exec_depend>
+  <exec_depend>roscpp</exec_depend>
+  <exec_depend>joy</exec_depend>
+  <exec_depend>tf</exec_depend>
+  <exec_depend>protobuf</exec_depend>
+
+  <build_depend>ds_actuator_msgs</build_depend>
+  <build_depend>ds_core_msgs</build_depend>
+  <build_depend>ds_sensor_msgs</build_depend>
+  <build_depend>ds_nav_msgs</build_depend>
+  <build_depend>dave_gazebo_world_plugins</build_depend>
+  <build_export_depend>ds_actuator_msgs</build_export_depend>
+  <build_export_depend>ds_core_msgs</build_export_depend>
+  <build_export_depend>ds_sensor_msgs</build_export_depend>
+  <build_export_depend>ds_nav_msgs</build_export_depend>
+  <build_export_depend>dave_gazebo_world_plugins</build_export_depend>
+  <exec_depend>ds_actuator_msgs</exec_depend>
+  <exec_depend>ds_core_msgs</exec_depend>
+  <exec_depend>ds_sensor_msgs</exec_depend>
+  <exec_depend>ds_nav_msgs</exec_depend>
+  <exec_depend>dave_gazebo_world_plugins</exec_depend>
+
+  <!-- The export tag contains other, unspecified, tags -->
+  <export>
+    <!-- Other tools can request additional information be placed here -->
+
+  </export>
+</package>

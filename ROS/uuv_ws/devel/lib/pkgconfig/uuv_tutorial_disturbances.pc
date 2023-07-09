@@ -1,0 +1,8 @@
+prefix=/home/roshan/uuv_ws/devel
+
+Name: uuv_tutorial_disturbances
+Description: Description of uuv_tutorial_disturbances
+Version: 0.6.13
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

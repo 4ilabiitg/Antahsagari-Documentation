@@ -1,0 +1,8 @@
+prefix=/home/roshan/antah_ws/install
+
+Name: uuv_teleop
+Description: Description of uuv_teleop
+Version: 0.6.13
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

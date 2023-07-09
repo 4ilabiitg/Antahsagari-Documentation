@@ -1,0 +1,8 @@
+prefix=/home/roshan/uuv_ws/devel
+
+Name: uuv_descriptions
+Description: Description of uuv_descriptions
+Version: 0.6.13
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

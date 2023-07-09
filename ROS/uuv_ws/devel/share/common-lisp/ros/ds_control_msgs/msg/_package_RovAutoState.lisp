@@ -1,0 +1,14 @@
+(cl:in-package ds_control_msgs-msg)
+(cl:export '(AUTO_XY_ENABLED-VAL
+          AUTO_XY_ENABLED
+          AUTO_DEPTH_ENABLED-VAL
+          AUTO_DEPTH_ENABLED
+          AUTO_HEADING_ENABLED-VAL
+          AUTO_HEADING_ENABLED
+          AUTO_XY_AVAILABLE-VAL
+          AUTO_XY_AVAILABLE
+          AUTO_DEPTH_AVAILABLE-VAL
+          AUTO_DEPTH_AVAILABLE
+          AUTO_HEADING_AVAILABLE-VAL
+          AUTO_HEADING_AVAILABLE
+))

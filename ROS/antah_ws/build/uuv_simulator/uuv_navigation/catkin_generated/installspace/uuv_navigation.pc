@@ -1,0 +1,8 @@
+prefix=/home/roshan/antah_ws/install
+
+Name: uuv_navigation
+Description: Description of uuv_navigation
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

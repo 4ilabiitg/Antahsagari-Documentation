@@ -1,0 +1,8 @@
+prefix=/home/roshan/uuv_ws/install
+
+Name: dave_gazebo_sensor_plugins
+Description: Description of dave_gazebo_sensor_plugins
+Version: 3.1.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
