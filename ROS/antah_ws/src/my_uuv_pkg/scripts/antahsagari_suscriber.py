@@ -1,6 +1,4 @@
-#!/usr/bin/env python
 
-#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Art by Ankit<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<#
 
 import rospy
 from std_msgs.msg import String
